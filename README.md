@@ -4,14 +4,16 @@
 
 
 
-### Markdown语法参考
+### 本网站采用Markdown
+
+语法参考：
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 标题 1
+## 标题 2
+### 标题 3
 
 - Bulleted
 - List
