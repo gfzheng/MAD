@@ -6,7 +6,7 @@
 * **课程内容：** Android应用开发
 
 ### **通知(望大家相互转告)**
-课程QQ交流群：**__648809915__**
+课程QQ交流群：**648809915**
 
 Android官方培训课程中文版：http://hukai.me/android-training-course-in-chinese/index.html <br>
 Android官网:https://developer.android.com/index.html 
@@ -22,8 +22,8 @@ Android官网:https://developer.android.com/index.html
 ### Teaching Staff
 
   * **Instructor:**
-  	* [郑贵锋](http://edin.sysu.edu.cn/~zhgf/)／Email:<zhenggf@mail.sysu.edu.cn>
-  	* [刘宁](http://sdcs.sysu.edu.cn/node/2495)／Email:<liuning2@mail.sysu.edu.cn>
+    * [郑贵锋](http://edin.sysu.edu.cn/~zhgf/)|Email:<zhenggf@mail.sysu.edu.cn>
+    * [刘宁](http://sdcs.sysu.edu.cn/node/2495)|Email:<liuning2@mail.sysu.edu.cn>
   * TAs:
     * 商家煜：E_mail:<540574928@qq.com>
     * 郭钧锋：E_mail:<1350600484@qq.com>
@@ -37,7 +37,7 @@ Android官网:https://developer.android.com/index.html
 ----
 
 ### Homework Requirements
-  * **Submit Address:** ftp://my.ss.sysu.edu.cn/~zhgf
+  * **Submit Address:** ftp://edin.sysu.edu.cn
   * **Deadline:**  下一次实验课的前一天晚上23:59
   * **Name:**   SID_Name_labX.zip   **(eg: 1530000_陈XX_lab1.zip)**
   * **Hand In:**   Source Code and Lab Report **(PDF required)**
@@ -195,7 +195,7 @@ Android官网:https://developer.android.com/index.html
 当程序出问题的时候，首先需要去读一下as给出的错误信息是什么。虽然你很可能看不懂，但是先去看一下。 
 
 * **Search your question on Internet** <br/>
-网上肯定有无数的人出现过跟你一样的问题，所以先去网上找答案。直接在网上搜索as给出的错误信息，然后就能出现一大堆的解答。推荐使用[Google](https://www.google.com.hk)搜索，推荐使用**英文**搜索，推荐去 [Stack Overflow](https://stackoverflow.com)搜索。感谢terry同学分享的**SYSUv6-DNS**翻墙方法，需要的同学请戳 [[https://github.com/bazingaterry/SYSUv6-DNS]]； 老D博客跟踪更新host：[[https://laod.cn/hosts/2016-google-hosts.html]].
+网上肯定有无数的人出现过跟你一样的问题，所以先去网上找答案。直接在网上搜索as给出的错误信息，然后就能出现一大堆的解答。推荐使用[Google](https://www.google.com.hk)搜索，推荐使用**英文**搜索，推荐去 [Stack Overflow](https://stackoverflow.com)搜索。感谢terry同学分享的**SYSUv6-DNS**翻墙方法，需要的同学请戳 https://github.com/bazingaterry/SYSUv6-DNS； 老D博客跟踪更新host：https://laod.cn/hosts/2016-google-hosts.html.
 
 * **Search or ask question in QQ Group**  <br/>
 课程交流群中，可能已经有人问过与你相似的问题了，所以可以先去搜索一下群聊天记录。找不到的话，将你的问题描述清楚，在群里询问其他同学，让他们给你解决。
