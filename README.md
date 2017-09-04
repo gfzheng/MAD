@@ -1,27 +1,27 @@
-# 《手机平台应用开发》《移动应用开发》
+## 《手机平台应用开发》《移动应用开发》
 * 2017学年秋季学期
-* **课程时间(1-18):** 星期二12节 | 34节 | 56节
+* **课程时间(1-18):** 星期二 12节／34节／56节
 * **理论课课程地点:** D302
 * **实验课课程地点：** 实验中心B201
 * **课程内容：** Android应用开发
 
-## **通知(望大家相互转告)**
+### **通知(望大家相互转告)**
 课程QQ交流群：**__648809915__**
 
 Android官方培训课程中文版：http://hukai.me/android-training-course-in-chinese/index.html <br>
 Android官网:https://developer.android.com/index.html 
 
 
-## **Google中国域名开放**
+### **Google中国域名开放**
   * Google Developers中国网站: https://developers.google.cn/
   * Android开发者官方网站: https://developer.android.google.cn/index.html
   * 快速开发应用的移动平台Firebase: https://firebase.google.cn/
 
 ----
 
-# Teaching Staff
+### Teaching Staff
 
-  * **Instructor:** [郑贵锋](http://edin.sysu.edu.cn/~zhgf/) |  Email:<zhenggf@mail.sysu.edu.cn>
+  * **Instructor:** [郑贵锋](http://edin.sysu.edu.cn/~zhgf/)／Email:<zhenggf@mail.sysu.edu.cn>
   * TAs:
     * 商家煜：E_mail:<540574928@qq.com>
     * 郭钧锋：E_mail:<1350600484@qq.com>
@@ -32,7 +32,7 @@ Android官网:https://developer.android.com/index.html
 
 ----
 
-# Homework Requirements
+### Homework Requirements
   * **Submit Address:** ftp://my.ss.sysu.edu.cn/~zhgf
   * **Deadline:**  下一次实验课的前一天晚上23:59
   * **Name:**   SID_Name_labX.zip   **(eg: 1530000_陈XX_lab1.zip)**
@@ -48,18 +48,18 @@ Android官网:https://developer.android.com/index.html
  [实验报告模板](https://github.com/gfzheng/MAD/blob/master/Materials/reporttemplate.doc)
 
 
-# Letures
+## Letures
 
 ----
 
-## Week 1 智能手机 & 平台概述
+### Week 1 智能手机 & 平台概述
 
   * Lectures: <a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/01 智能手机.pdf" target="_blank" >01_智能手机概述.pdf</a>, <a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/02 平台概述.pdf" onclick="return false;"  >02_android平台概述.pdf</a>
 
 ----
 
 <!--
-## Week 2 开发入门
+### Week 2 开发入门
 
   * Lectures:<a href='#'  style="color:gray; text-decoration:none;">03_开发入门.pdf</a> 
   * Lab:<a href='#'  style="color:gray; text-decoration:none;">lab1.zip</a>  
@@ -68,7 +68,7 @@ Android官网:https://developer.android.com/index.html
 
 
 
-## Week 3 界面编程上
+### Week 3 界面编程上
   * Lectures: {{::04_界面编程上.pdf|}} \\
   * Lab: {{::实验一.zip|}} (为了不跟后面的实验混淆，我们把**__//上一次//__**实验叫做**__//实验零//__**吧) \\
   * Suggested Code: {{::experimentonedemo.zip|}} （以后每周都会上传前面实验的参考代码，因此大家**只能推迟一周补交**实验报告！）
@@ -76,79 +76,79 @@ Android官网:https://developer.android.com/index.html
 ----
 
 
-## Week 4 界面编程下
+### Week 4 界面编程下
   * Lectures: {{::05_界面编程下.pdf|}}\\
   * Lab: {{::实验二.zip|}} \\
   * Suggested Code: {{::experimenttwodemo.zip|}} \\
   
 ------
 
-## Week 5 国庆节放假
+### Week 5 国庆节放假
   :)
 
 --------
 
-## Week 6 事件处理
+### Week 6 事件处理
   * Lectures: {{:06事件处理.pdf|}}\\
   * Lab: {{:实验三.zip|}} \\
   * Suggested Code:{{::experimentthreedemo.zip|}}
 
 ------
 
-## Week 7  广播事件 
+### Week 7  广播事件 
   * Lectures: {{::07_broadcast.pdf|}}\\
   * Lab: {{::实验四.rar|}} \\
   * Suggested Code: {{::experiment4_demo.rar|}}
 
 ------
 
-## Week 8  Widget 
+### Week 8  Widget 
   * Lectures: {{:08_widget.pdf|}}\\
   * Lab: {{::实验五.zip|}} （注意：要从Widgets设置里面将对应的Widget拖到桌面，才可以看到实验效果。）\\
   * Suggested Code: {{::experiment5demo.zip|}}
 
 ------
 
-## Week 9  服务与多线程上 
+### Week 9  服务与多线程上 
   * Lectures: {{:08_服务与多线程.pdf|}}\\
   * Lab: {{:实验六.rar|}} （实验六做两周)\\
   * Suggested Code: {{::experiment6demo.rar|}}
 
 ------
 
-##  Week 10  考试周 
+###  Week 10  考试周 
   
 
 ------
 
-## Week 11  服务与多线程下 
+### Week 11  服务与多线程下 
   * 内容待确定
 
 ------
 
 
-## Week 12  数据存储（一） 
+### Week 12  数据存储（一） 
   * 内容待确定
 
 ------
 
-## Week 13  数据存储（二）
+### Week 13  数据存储（二）
   * 内容待确定
 
 ----
 
 
-## Week 14  网络访问 
+### Week 14  网络访问 
   * 内容待确定
 
 ------
 
-##  Week 15  Web服务开发 
+###  Week 15  Web服务开发 
   * 内容待确定
 
 ------
 
-## Week 16  特色开发（NDK，传感器），地图开发 
+### Week 16  特色开发（NDK，传感器），地图开发 
   * Lectures：{{:12_特色开发_传感器_.pdf|}}{{::13_地图应用.pptx|}} (13讲中的动图需要在播放模式下查看)
   * Lab: 
       * 实验文档：{{::实验10.1_传感器.zip|}} {{:实验10.2_传感器_地图.zip|}} \\
@@ -157,7 +157,7 @@ Android官网:https://developer.android.com/index.html
 
 ------
 
-#  课程项目说明 
+##  课程项目说明 
   * Project: {{::课程项目说明.pdf|}} 
   * 分组名单及展示顺序： {{::android项目分组名单.xls|}} {{::展示顺序.pdf|}}
   * **用户手册**：其实用户手册就是我们平常使用一个软件时给我们的安装教程以及使用说明之类的文件。这里有几个例子：{{::arbowebforestusermanual.pdf|}} {{::genesys_care_mobile_application_user_guide.pdf|}} {{::mobile_app_user_s_guide_acronis.pdf|}}， 以及一些建议：[[http://www.wikihow.com/Create-a-User-Manual|How to Create a User Manual: 12 Steps]]  [[http://www.wikihow.com/Write-User-Manuals|How to Write User Manuals]]。
@@ -170,7 +170,7 @@ Android官网:https://developer.android.com/index.html
 
 ---------
 -->
-#  去年的期末考试
+##  去年的期末考试
 
 由于实验室的电脑实在是旧的不可描述，老师一合计，一拍桌子就霸气决定**不用期末考了**！但是终究需要给定一个成绩，因此有以下几点要求：
   - 期末项目**多给两周时间**，即最终的相关文档（程序安装包、用户手册、完整的工程源代码、小组报告以及个人报告等）提交时间为**20周周六（1月14日）24点之前**。
@@ -183,7 +183,7 @@ Android官网:https://developer.android.com/index.html
 ---------
 
 
-#  Tips: How to ask questions? 
+##  Tips: How to ask questions? 
 
 实验课已经正式开始，各位同学在做实验的过程中遇见了各种各样的问题。作为TA，我们有责任给大家解答问题，但是每个人的精力、能力有限，TA很可能在忙其他的事情，TA可能也不懂你的问题，有时候反而会浪费更多的时间，所以水几点关于提问题的建议，与大家共勉~ 
 
