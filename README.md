@@ -22,8 +22,8 @@ Android官网:https://developer.android.com/index.html
 ### Teaching Staff
 
   * **Instructor:**
-    * [郑贵锋](http://edin.sysu.edu.cn/~zhgf/)|Email:<zhenggf@mail.sysu.edu.cn>
-    * [刘宁](http://sdcs.sysu.edu.cn/node/2495)|Email:<liuning2@mail.sysu.edu.cn>
+	* [刘宁](http://sdcs.sysu.edu.cn/node/2495)|Email:<liuning2@mail.sysu.edu.cn>
+	* [郑贵锋](http://edin.sysu.edu.cn/~zhgf/)|Email:<zhenggf@mail.sysu.edu.cn>
   * TAs:
     * 商家煜：E_mail:<540574928@qq.com>
     * 郭钧锋：E_mail:<1350600484@qq.com>
