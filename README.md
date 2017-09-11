@@ -62,15 +62,15 @@ Android官网:https://developer.android.com/index.html
 
 ----
 
-<!--
+
 ### Week 2 开发入门
 
-  * Lectures:<a href='#'  style="color:gray; text-decoration:none;">03_开发入门.pdf</a> 
-  * Lab:<a href='#'  style="color:gray; text-decoration:none;">lab1.zip</a>  
+  * Lectures:<a href='https://github.com/gfzheng/MAD/blob/master/Keynotes/03%20%E6%89%8B%E6%9C%BA%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%85%A5%E9%97%A8.pdf'  target="_blank">03 手机应用开发入门.pdf</a> 
+  * Lab:<a href='https://github.com/gfzheng/MAD/blob/master/Labs/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.pdf'  target="_blank">开发环境配置.pdf</a>  
 
 ----
 
-
+<!--
 
 ### Week 3 界面编程上
   * Lectures: {{::04_界面编程上.pdf|}} \\
