@@ -64,7 +64,7 @@ Android官网:https://developer.android.com/index.html
 ### Week 2 开发入门
 
   * Lectures:<a href='https://github.com/gfzheng/MAD/blob/master/Keynotes/03 手机应用开发入门.pdf'  target="_blank">03 手机应用开发入门.pdf</a> 
-  * Lab:<a href='https://github.com/gfzheng/MAD/blob/master/Labs/开发环境.pdf'  target="_blank">开发环境.pdf</a>  
+  * Lab:<a href='https://github.com/gfzheng/MAD/blob/master/Labs/开发环境配置.pdf'  target="_blank">开发环境.pdf</a>  
 
 ----
 
