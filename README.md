@@ -58,13 +58,13 @@ Android官网:https://developer.android.com/index.html
 
 ### Week 1 智能手机 & 平台概述
 
-  * Lectures: <a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/01 智能手机.pdf" target="_blank" >01_智能手机概述.pdf</a>, <a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/02 平台概述.pdf" onclick="return false;"  >02_android平台概述.pdf</a>
+  * Lectures: <a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/01 智能手机.pdf" target="_blank" >01_智能手机概述.pdf</a>, <a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/02 平台概述.pdf" target="_blank"  >02_android平台概述.pdf</a>
 
 ----
 ### Week 2 开发入门
 
-  * Lectures:<a href='https://github.com/gfzheng/MAD/blob/master/Keynotes/03%20%E6%89%8B%E6%9C%BA%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%85%A5%E9%97%A8.pdf'  target="_blank">03 手机应用开发入门.pdf</a> 
-  * Lab:<a href='https://github.com/gfzheng/MAD/blob/master/Labs/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.pdf'  target="_blank">开发环境.pdf</a>  
+  * Lectures:<a href='https://github.com/gfzheng/MAD/blob/master/Keynotes/03 手机应用开发入门.pdf'  target="_blank">03 手机应用开发入门.pdf</a> 
+  * Lab:<a href='https://github.com/gfzheng/MAD/blob/master/Labs/开发环境.pdf'  target="_blank">开发环境.pdf</a>  
 
 ----
 
