@@ -2,14 +2,15 @@
 * 2017学年秋季学期
 * **课程时间(1-18):** 星期二 12节／34节／56节
 * **理论课课程地点:** D302
-* **实验课课程地点：** 实验中心B201
+* **实验课课程地点：** 实验中心B201, 实验中心B202(手机平台应用开发)
 * **课程内容：** Android应用开发
 
 ### **通知(望大家相互转告)**
-课程QQ交流群：**648809915**
+课程QQ交流群：**648809915**, **648381150(手机平台应用开发)**
+
 
 Android官方培训课程中文版：http://hukai.me/android-training-course-in-chinese/index.html <br>
-Android官网:https://developer.android.com/index.html 
+Android官网 : https://developer.android.com/index.html 
 
 
 ### **Google中国域名开放**
