@@ -160,20 +160,24 @@ Android官网:https://developer.android.com/index.html
   * 关于实验的说明：终于是最后一次实验了！LOL  这次的实验**//从10.1和10.2中选一个做//**，其中10.1包含传感器的内容，10.2包含传感器和地图的内容。截止时间统一为**//17周星期五（12月23日）晚上12点//**。
 
 ------
-
+-->
 ##  课程项目说明 
-  * Project: {{::课程项目说明.pdf|}} 
-  * 分组名单及展示顺序： {{::android项目分组名单.xls|}} {{::展示顺序.pdf|}}
-  * **用户手册**：其实用户手册就是我们平常使用一个软件时给我们的安装教程以及使用说明之类的文件。这里有几个例子：{{::arbowebforestusermanual.pdf|}} {{::genesys_care_mobile_application_user_guide.pdf|}} {{::mobile_app_user_s_guide_acronis.pdf|}}， 以及一些建议：[[http://www.wikihow.com/Create-a-User-Manual|How to Create a User Manual: 12 Steps]]  [[http://www.wikihow.com/Write-User-Manuals|How to Write User Manuals]]。
+  * 本次课程项目包括**期中**和**期末**两个项目，其中：期中项目指定题目和具体要求，期末项目自由选题但要求包含选定功能要求。
+  * Project: <a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/课程项目说明.pdf" target="_blank" >课程项目说明.pdf</a>
+  
+  * 组队方式：最多4人一组，可以跨班组队
+  * 分组名单报名： <a  href ="https://www.chaojibiaoge.com/index.php/Form/i/sharekey/mgq7g3g8" target="_blank" >报名链接</a>
+  * **用户手册**：其实用户手册就是我们平常使用一个软件时给我们的安装教程以及使用说明之类的文件。这里有几个例子：<a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/guidbook/arbowebforestusermanual.pdf" target="_blank" >arbowebforestusermanual.pdf</a>、<a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/guidbook/mobile_app_user_s_guide_acronis.pdf" target="_blank" >mobile_app_user_s_guide_acronis.pdf</a>、<a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/guidbook/genesys_care_mobile_application_user_guide.pdf" target="_blank" >genesys_care_mobile_application_user_guide.pdf</a>
+  以及一些建议：[How to Create a User Manual: 12 Steps](http://www.wikihow.com/Create-a-User-Manual)、[How to Write User Manuals](http://www.wikihow.com/Write-User-Manuals)。
   * **说明文档**:
-    * 模板：{{::项目说明文档模板.pdf|}} {{::中山大学本科生毕业论文_设计_写作与印制规范.pdf|}}
-    * 参考文档： {{::shoppingbuddy.pdf|}}
+    * 模板：[项目文档模板.pdf](https://github.com/gfzheng/MAD/blob/master/Keynotes/guidbook/项目说明文档模板.pdf) [中山大学本科生毕业论文_设计_写作与印制规范.pdf](https://github.com/gfzheng/MAD/blob/master/Keynotes/guidbook/中山大学本科生毕业论文_设计_写作与印制规范.pdf)
+    * 参考文档： [shoppingbuddy.pdf](https://github.com/gfzheng/MAD/blob/master/Keynotes/guidbook/shoppingbuddy.pdf)
   * **个人报告**：个人报告可以直接使用平常的实验报告模板，但是需要在报告前注明自己所在小组以及负责的部分。个人报告内容基于自己负责的部分，而不是小组最终的成果。
-  * 截止时间为**20周周六（1月14日）24点**。
+  * 截止时间**待定**。
 
 
 ---------
--->
+
 ##  去年的期末考试
 
 由于实验室的电脑实在是旧的不可描述，老师一合计，一拍桌子就霸气决定**不用期末考了**！但是终究需要给定一个成绩，因此有以下几点要求：
