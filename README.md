@@ -173,7 +173,9 @@ Android官网 : https://developer.android.com/index.html
   * Project: <a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/课程项目说明.pdf" target="_blank" >课程项目说明.pdf</a>
   
   * 组队方式：最多4人一组，可以跨班组队
-  * 分组名单报名： <a  href ="https://www.chaojibiaoge.com/index.php/Form/i/sharekey/mgq7g3g8" target="_blank" >报名链接</a>
+  * 分组名单报名： 
+  	- <a  href ="https://www.chaojibiaoge.com/index.php/Form/i/sharekey/mgq7g3g8" target="_blank" >移动应用开发-报名链接</a>
+  	- [手机平台应用开发-报名链接](https://shimo.im/sheet/kVh9603O33kVH1Cc?from=new-sheet-guide&r=MEZXG8)
   * **用户手册**：其实用户手册就是我们平常使用一个软件时给我们的安装教程以及使用说明之类的文件。这里有几个例子：<a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/guidbook/arbowebforestusermanual.pdf" target="_blank" >arbowebforestusermanual.pdf</a>、<a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/guidbook/mobile_app_user_s_guide_acronis.pdf" target="_blank" >mobile_app_user_s_guide_acronis.pdf</a>、<a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/guidbook/genesys_care_mobile_application_user_guide.pdf" target="_blank" >genesys_care_mobile_application_user_guide.pdf</a>
   以及一些建议：[How to Create a User Manual: 12 Steps](http://www.wikihow.com/Create-a-User-Manual)、[How to Write User Manuals](http://www.wikihow.com/Write-User-Manuals)。
   * **说明文档**:
