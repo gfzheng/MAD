@@ -70,22 +70,18 @@ Android官网 : https://developer.android.com/index.html
 ----
 ### Week 2 开发入门
 
-  * Lectures:<a href='https://github.com/gfzheng/MAD/blob/master/Keynotes/03 手机应用开发入门.pdf'  target="_blank">03 手机应用开发入门.pdf</a> 
-  * Lab:<a href='https://github.com/gfzheng/MAD/blob/master/Labs/开发环境配置.pdf'  target="_blank">开发环境.pdf</a>  
+  * Lectures:<a href="https://github.com/gfzheng/MAD/blob/master/Keynotes/03 手机应用开发入门.pdf'"target="_blank">03 手机应用开发入门.pdf</a> 
+  * Lab:<a href="https://github.com/gfzheng/MAD/blob/master/Labs/开发环境配置.pdf"  target="_blank">开发环境.pdf</a>  
 
 ----
 
-
-
-<!--
 
 ### Week 3 界面编程上
-  * Lectures: {{::04_界面编程上.pdf|}} \\
-  * Lab: {{::实验一.zip|}} (为了不跟后面的实验混淆，我们把**__//上一次//__**实验叫做**__//实验零//__**吧) \\
-  * Suggested Code: {{::experimentonedemo.zip|}} （以后每周都会上传前面实验的参考代码，因此大家**只能推迟一周补交**实验报告！）
+  * Lectures: <a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/04_界面编程上.pdf" target="_blank" >04_界面编程上.pdf</a>
+  * Lab: <a  href ="https://github.com/gfzheng/MAD/blob/master/Labs/实验一.rar" target="_blank" >实验一.rar</a> 
 
 ----
-
+<!--
 
 ### Week 4 界面编程下
   * Lectures: {{::05_界面编程下.pdf|}}\\
