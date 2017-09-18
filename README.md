@@ -74,7 +74,7 @@ Android官网 : https://developer.android.com/index.html
   * Lab:<a href="https://github.com/gfzheng/MAD/blob/master/Labs/开发环境配置.pdf"  target="_blank">开发环境.pdf</a>  
 
 ----
-
+<!--
 
 ### Week 3 界面编程上
   * Lectures: <a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/04_界面编程上.pdf" target="_blank" >04_界面编程上.pdf</a>
