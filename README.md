@@ -175,8 +175,8 @@ Android官网 : https://developer.android.com/index.html
   * **用户手册**：其实用户手册就是我们平常使用一个软件时给我们的安装教程以及使用说明之类的文件。这里有几个例子：<a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/guidbook/arbowebforestusermanual.pdf" target="_blank" >arbowebforestusermanual.pdf</a>、<a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/guidbook/mobile_app_user_s_guide_acronis.pdf" target="_blank" >mobile_app_user_s_guide_acronis.pdf</a>、<a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/guidbook/genesys_care_mobile_application_user_guide.pdf" target="_blank" >genesys_care_mobile_application_user_guide.pdf</a>
   以及一些建议：[How to Create a User Manual: 12 Steps](http://www.wikihow.com/Create-a-User-Manual)、[How to Write User Manuals](http://www.wikihow.com/Write-User-Manuals)。
   * **说明文档**:
-    * 模板：[项目文档模板.pdf](https://github.com/gfzheng/MAD/blob/master/Keynotes/guidebook/%E9%A1%B9%E7%9B%AE%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3%E6%A8%A1%E6%9D%BF.pdf) [中山大学本科生毕业论文_设计_写作与印制规范.pdf](https://github.com/gfzheng/MAD/blob/master/Keynotes/guidbook/中山大学本科生毕业论文（设计）写作与印制规范.pdf)
-    * 参考文档： [shoppingbuddy.pdf](https://github.com/gfzheng/MAD/blob/master/Keynotes/guidbook/shoppingbuddy.pdf)
+    * 模板：[项目文档模板.pdf](https://github.com/gfzheng/MAD/blob/master/Keynotes/guidebook/%E9%A1%B9%E7%9B%AE%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3%E6%A8%A1%E6%9D%BF.pdf) [中山大学本科生毕业论文_设计_写作与印制规范.pdf](https://github.com/gfzheng/MAD/blob/master/Keynotes/guidebook/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E6%9C%AC%E7%A7%91%E7%94%9F%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%EF%BC%88%E8%AE%BE%E8%AE%A1%EF%BC%89%E5%86%99%E4%BD%9C%E4%B8%8E%E5%8D%B0%E5%88%B6%E8%A7%84%E8%8C%83.pdf)
+    * 参考文档： [shoppingbuddy.pdf](https://github.com/gfzheng/MAD/blob/master/Keynotes/guidebook/shoppingbuddy.pdf)
   * **个人报告**：个人报告可以直接使用平常的实验报告模板，但是需要在报告前注明自己所在小组以及负责的部分。个人报告内容基于自己负责的部分，而不是小组最终的成果。
   * 截止时间**待定**。
 
