@@ -170,7 +170,7 @@ Android官网 : https://developer.android.com/index.html
   
   * 组队方式：最多4人一组，可以跨班组队
   * 分组名单： 
-  	- [移动应用开发-报名链接](https://github.com/gfzheng/MAD/blob/master/Keynotes/Android课程分组统计_final.xlsx)
+  	- [移动应用开发](https://github.com/gfzheng/MAD/blob/master/Keynotes/Android课程分组统计_final.xlsx)
   	- [手机平台应用开发-报名链接](https://shimo.im/sheet/kVh9603O33kVH1Cc?from=new-sheet-guide&r=MEZXG8)
   * **用户手册**：其实用户手册就是我们平常使用一个软件时给我们的安装教程以及使用说明之类的文件。这里有几个例子：<a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/guidbook/arbowebforestusermanual.pdf" target="_blank" >arbowebforestusermanual.pdf</a>、<a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/guidbook/mobile_app_user_s_guide_acronis.pdf" target="_blank" >mobile_app_user_s_guide_acronis.pdf</a>、<a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/guidbook/genesys_care_mobile_application_user_guide.pdf" target="_blank" >genesys_care_mobile_application_user_guide.pdf</a>
   以及一些建议：[How to Create a User Manual: 12 Steps](http://www.wikihow.com/Create-a-User-Manual)、[How to Write User Manuals](http://www.wikihow.com/Write-User-Manuals)。
