@@ -63,20 +63,26 @@ Android官网 : https://developer.android.com/index.html
 
 ----
 
-### Week 1 智能手机 & 平台概述
+### Week 1 智能手机 
 
-  * Lectures: <a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/01 智能手机.pdf" target="_blank" >01_智能手机概述.pdf</a>, <a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/02 平台概述.pdf" target="_blank"  >02_android平台概述.pdf</a>
-
-----
-### Week 2 开发入门
-
-  * Lectures:<a  href="https://github.com/gfzheng/MAD/blob/master/Keynotes/03 手机应用开发入门.pdf" target="_blank">03_手机应用开发入门.pdf</a> 
-  * Lab:<a href="https://github.com/gfzheng/MAD/blob/master/Labs/开发环境配置.pdf"  target="_blank">开发环境.pdf</a>  
+* Lectures: <a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/01 智能手机.pdf" target="_blank" >01_智能手机概述.pdf</a>
 
 ----
-<!--
+### Week 2 平台概述
 
-### Week 3 界面编程上
+* Lectures: <a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/02 平台概述.pdf" target="_blank"  >02_android平台概述.pdf</a>
+* Lab:<a href="https://github.com/gfzheng/MAD/blob/master/Labs/开发环境配置.pdf"  target="_blank">开发环境.pdf</a>  
+
+----
+
+### Week 3 开发入门
+* Lectures:<a  href="https://github.com/gfzheng/MAD/blob/master/Keynotes/03 手机应用开发入门.pdf" target="_blank">03_手机应用开发入门.pdf</a> 
+* Lab:<a href="https://github.com/gfzheng/MAD/blob/master/Labs/github.pdf"  target="_blank">github.pdf</a>  
+
+----
+
+
+### Week 4 界面编程上
   * Lectures: <a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/04_界面编程上.pdf" target="_blank" >04_界面编程上.pdf</a>
   * Lab: <a  href ="https://github.com/gfzheng/MAD/blob/master/Labs/实验一.rar" target="_blank" >实验一.rar</a> 
 
