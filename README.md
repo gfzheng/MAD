@@ -87,26 +87,18 @@ Android官网 : https://developer.android.com/index.html
   * Lab: <a  href ="https://github.com/gfzheng/MAD/blob/master/Labs/实验一.rar" target="_blank" >实验一.rar</a> 
 
 ----
-<!--
-
-### Week 4 界面编程下
-  * Lectures: {{::05_界面编程下.pdf|}}\\
-  * Lab: {{::实验二.zip|}} \\
-  * Suggested Code: {{::experimenttwodemo.zip|}} \\
-  
-------
 
 ### Week 5 国庆节放假
   :)
 
 --------
 
-### Week 6 事件处理
-  * Lectures: {{:06事件处理.pdf|}}\\
-  * Lab: {{:实验三.zip|}} \\
-  * Suggested Code:{{::experimentthreedemo.zip|}}
+### Week 6 界面编程下
+  * Lectures: <a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/06_界面编程下.pdf" target="_blank" >06_界面编程下.pdf</a>
+  * Lab: <a  href ="https://github.com/gfzheng/MAD/blob/master/Labs/实验二.rar" target="_blank" >实验二.rar</a> 
 
--------
+----
+<!--
 
 ### Week 7  广播事件 
   * Lectures: {{::07_broadcast.pdf|}}\\
