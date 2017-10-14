@@ -98,7 +98,15 @@ Android官网 : https://developer.android.com/index.html
   * Lab: <a  href ="https://github.com/gfzheng/MAD/blob/master/Labs/实验二.rar" target="_blank" >实验二.rar</a> 
 
 ----
+
+### Week 7  事件处理
+  * Lab: <a  href ="https://github.com/gfzheng/MAD/blob/master/Labs/实验三.zip" target="_blank" >实验三.rar</a> 
+  
+
+------
 <!--
+
+
 
 ### Week 7  广播事件 
   * Lectures: {{::07_broadcast.pdf|}}\\
