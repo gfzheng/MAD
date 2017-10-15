@@ -100,7 +100,7 @@ Android官网 : https://developer.android.com/index.html
 ----
 
 ### Week 7 事件处理
-  * Lectures: <a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/07_事件处理.pdf" target="_blank" >07_事件处理.pdf</a>
+  * Lectures: <a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/07_事件处理.pdf" target="_blank" >07_事件处理.pdf</a>
   * Lab: <a href ="https://github.com/gfzheng/MAD/blob/master/Labs/实验三.zip" target="_blank">实验三.zip</a>
 
 
