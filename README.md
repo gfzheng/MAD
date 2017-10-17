@@ -32,7 +32,7 @@ Android官网 : https://developer.android.com/index.html
 	* [刘宁](http://sdcs.sysu.edu.cn/node/2495)|Email:<liuning2@mail.sysu.edu.cn>
 	* [郑贵锋](http://edin.sysu.edu.cn/~zhgf/)|Email:<zhenggf@mail.sysu.edu.cn>
   * TAs:
-    * 商家煜：E_mail:<540574928@qq.com>
+    * 商家煜：E_mail:<kenneth.shang@foxmail.com>
     * 郭钧锋：E_mail:<1350600484@qq.com>
     * 梁炜康：E_mail:<405203818@qq.com>
     * 卢巧笑：E_mail:<578949351@qq.com>
@@ -190,6 +190,12 @@ Android官网 : https://developer.android.com/index.html
 
 
 ---------
+##  期中项目 
+  * [期中项目说明](https://github.com/gfzheng/MAD/blob/master/Keynotes/期中项目.pdf)
+  * 截止日期：第十二周周日（11月26日晚12点）
+
+---------
+
 
 ##  去年的期末考试
 
