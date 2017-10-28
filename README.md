@@ -108,19 +108,15 @@ Android官网 : https://developer.android.com/index.html
   * Lectures:<a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/08_广播.pdf" target="_blank" >08_广播.pdf</a>
   * Lab: <a href ="https://github.com/gfzheng/MAD/blob/master/Labs/实验四.zip" target="_blank">实验四.zip</a>
 
+----
+
+### Week 9  Widget 
+  * Lectures:<a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/09_widget.pdf" target="_blank" >09_widget.pdf</a>  
+  * Lab: <a href ="https://github.com/gfzheng/MAD/blob/master/Labs/实验五.zip" target="_blank">实验五.zip</a>
+（注意：要从Widgets设置里面将对应的Widget拖到桌面，才可以看到实验效果。）  
+
 
 <!--
-
-
-
-
-
-------
-
-### Week 8  Widget 
-  * Lectures: {{:08_widget.pdf|}}\\
-  * Lab: {{::实验五.zip|}} （注意：要从Widgets设置里面将对应的Widget拖到桌面，才可以看到实验效果。）\\
-  * Suggested Code: {{::experiment5demo.zip|}}
 
 ------
 
