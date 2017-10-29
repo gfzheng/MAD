@@ -111,7 +111,8 @@ Android官网 : https://developer.android.com/index.html
 ----
 
 ### Week 9  Widget 
-  * Lectures:<a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/09_widget.pdf" target="_blank" >09_widget.pdf</a>  
+  * Lectures:<a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/09_widget.pdf" target="_blank" >09_widget.pdf</a>   
+  * Code:<a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/09_widget_code.zip" target="_blank" > 09_ widget_code.zip</a> 
   * Lab: <a href ="https://github.com/gfzheng/MAD/blob/master/Labs/实验五.zip" target="_blank">实验五.zip</a>
 （注意：要从Widgets设置里面将对应的Widget拖到桌面，才可以看到实验效果。）  
 
