@@ -112,20 +112,21 @@ Android官网 : https://developer.android.com/index.html
 
 ### Week 9  Widget 
   * Lectures:<a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/09_widget.pdf" target="_blank" >09_widget.pdf</a>   
-  * Code:<a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/09_widget_code.zip" target="_blank" > 09_ widget_code.zip</a> 
+  * Code:<a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/10_服务与多线程_classcode.zip" target="_blank" > 09_ widget_code.zip</a> 
   * Lab: <a href ="https://github.com/gfzheng/MAD/blob/master/Labs/实验五.zip" target="_blank">实验五.zip</a>
 （注意：要从Widgets设置里面将对应的Widget拖到桌面，才可以看到实验效果。）  
 
 
-<!--
+
 
 ------
 
 ### Week 9  服务与多线程上 
-  * Lectures: {{:08_服务与多线程.pdf|}}\\
-  * Lab: {{:实验六.rar|}} （实验六做两周)\\
-  * Suggested Code: {{::experiment6demo.rar|}}
-
+  * Lectures:<a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/10_服务与多线程.pdf" target="_blank" >10_服务与多线程.pdf</a>   
+  * Code:<a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/10_服务与多线程_classcode.zip" target="_blank" > 10_服务与多线程_classcode.zip</a> 
+  * Lab: <a href ="https://github.com/gfzheng/MAD/blob/master/Labs/实验六.zip" target="_blank">实验六.zip</a>
+（注意：音乐要放到对应地址的位置才可以正确播放，地址各个手机不一定相同。）
+<!--
 ------
 
 ###  Week 10  考试周 
