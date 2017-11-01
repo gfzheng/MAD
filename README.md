@@ -117,20 +117,19 @@ Android官网 : https://developer.android.com/index.html
 （注意：要从Widgets设置里面将对应的Widget拖到桌面，才可以看到实验效果。）  
 
 
+------
 
+###  Week 10  考试周 
 
 ------
 
-### Week 9  服务与多线程上 
+### Week 11-12  服务与多线程 
   * Lectures:<a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/10_服务与多线程.pdf" target="_blank" >10_服务与多线程.pdf</a>   
   * Code:<a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/10_服务与多线程_classcode.zip" target="_blank" > 10_服务与多线程_classcode.zip</a> 
   * Lab: <a href ="https://github.com/gfzheng/MAD/blob/master/Labs/实验六.zip" target="_blank">实验六.zip</a>
 （注意：音乐要放到对应地址的位置才可以正确播放，地址各个手机不一定相同。）
 <!--
-------
 
-###  Week 10  考试周 
-  
 
 ------
 
