@@ -124,17 +124,12 @@ Android官网 : https://developer.android.com/index.html
 ------
 
 ### Week 11-12  服务与多线程 
-  * Lectures:<a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/10_服务与多线程.pdf" target="_blank" >10_服务与多线程.pdf</a>   
-  * Code:<a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/10_服务与多线程_classcode.7z" target="_blank" > 10_服务与多线程_classcode.7z</a> 
-  * Lab: <a href ="https://github.com/gfzheng/MAD/blob/master/Labs/实验六.zip" target="_blank">实验六.zip</a>
+  * Lectures:<a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/11-12_%E6%9C%8D%E5%8A%A1%E4%B8%8E%E5%A4%9A%E7%BA%BF%E7%A8%8B.pdf" target="_blank" >11-12_服务与多线程.pdf</a>   
+  * Code:<a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/11-12classcode-ProgressUpdate.7z" target="_blank" > 11-12classcode-ProgressUpdate.7z</a>、 <a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/11-12classcode-Service.7z" target="_blank" > 11-12classcode-Service.7z</a> 
+  * Lab: <a href ="https://github.com/gfzheng/MAD/blob/master/Labs/%E5%AE%9E%E9%AA%8C%E5%85%AD.zip" target="_blank">实验六.zip</a>
 （注意：音乐要放到对应地址的位置才可以正确播放，地址各个手机不一定相同。）
 <!--
 
-
-------
-
-### Week 11  服务与多线程下 
-  * 内容待确定
 
 ------
 
