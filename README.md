@@ -123,6 +123,10 @@ Android官网 : https://developer.android.com/index.html
 
 ------
 
+###  Week 11  补充（移动信工）
+  * Lectures:<a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/11_(%E8%A1%A5)%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%89%8D%E6%B2%BF.pdf" target="_blank" >移动应用开发前沿.pdf</a>
+
+------
 
 ### Week 11-12  服务与多线程 
   * Lectures:<a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/11-12_%E6%9C%8D%E5%8A%A1%E4%B8%8E%E5%A4%9A%E7%BA%BF%E7%A8%8B.pdf" target="_blank" >11-12_服务与多线程.pdf</a>   
