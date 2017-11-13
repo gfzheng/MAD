@@ -112,7 +112,7 @@ Android官网 : https://developer.android.com/index.html
 
 ### Week 9  Widget 
   * Lectures:<a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/09_widget.pdf" target="_blank" >09_widget.pdf</a>   
-  * Code:<a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/10_服务与多线程_classcode.zip" target="_blank" > 09_ widget_code.zip</a> 
+  * Code:<a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/09_widget_code.zip" target="_blank" > 09_ widget_code.zip</a> 
   * Lab: <a href ="https://github.com/gfzheng/MAD/blob/master/Labs/实验五.zip" target="_blank">实验五.zip</a>
 （注意：要从Widgets设置里面将对应的Widget拖到桌面，才可以看到实验效果。）  
 
@@ -124,7 +124,7 @@ Android官网 : https://developer.android.com/index.html
 ------
 
 ###  Week 11  补充（移动信工）
-  * Lectures: <a href="https://github.com/gfzheng/MAD/blob/master/Keynotes/11_(%E8%A1%A5)%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%89%8D%E6%B2%BF.pdf" target="_blank"  >11_(补)移动应用开发.pdf</a>
+  * Lectures: <a href="https://github.com/gfzheng/MAD/blob/master/Keynotes/11_(%E8%A1%A5)%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%89%8D%E6%B2%BF.pdf" target="_blank"  >11_(补)移动应用开发前沿.pdf</a>
 
 ------
 
@@ -133,6 +133,8 @@ Android官网 : https://developer.android.com/index.html
   * Code:<a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/11-12classcode-ProgressUpdate.7z" target="_blank" > 11-12classcode-ProgressUpdate.7z</a>、 <a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/11-12classcode-Service.7z" target="_blank" > 11-12classcode-Service.7z</a> 
   * Lab: <a href ="https://github.com/gfzheng/MAD/blob/master/Labs/%E5%AE%9E%E9%AA%8C%E5%85%AD.zip" target="_blank">实验六.zip</a>
 （注意：音乐要放到对应地址的位置才可以正确播放，地址各个手机不一定相同。）
+
+------
 <!--
 
 
