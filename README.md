@@ -136,6 +136,11 @@ Android官网 : https://developer.android.com/index.html
 
 ------
 
+### Week 8  广播事件 
+  * Lectures:<a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/08_广播.pdf" target="_blank" >08_广播.pdf</a>
+  * Lab: <a href ="https://github.com/gfzheng/MAD/blob/master/Labs/实验四.zip" target="_blank">实验四.zip</a>
+
+
 ### Week 13  数据存储（一） 
   * Lectures:<a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/13_数据存储.pdf" target="_blank" >13 数据存储.pdf</a>
   * Lab: <a href ="https://github.com/gfzheng/MAD/blob/master/Labs/实验七.zip" target="_blank">实验七.zip</a>
