@@ -108,14 +108,13 @@ Android官网 : https://developer.android.com/index.html
   * Lectures:<a  href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/08_广播.pdf" target="_blank" >08_广播.pdf</a>
   * Lab: <a href ="https://github.com/gfzheng/MAD/blob/master/Labs/实验四.zip" target="_blank">实验四.zip</a>
 
-----
+------
 
 ### Week 9  Widget 
   * Lectures:<a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/09_widget.pdf" target="_blank" >09_widget.pdf</a>   
   * Code:<a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/09_widget_code.zip" target="_blank" > 09_ widget_code.zip</a> 
   * Lab: <a href ="https://github.com/gfzheng/MAD/blob/master/Labs/实验五.zip" target="_blank">实验五.zip</a>
 （注意：要从Widgets设置里面将对应的Widget拖到桌面，才可以看到实验效果。）  
-
 
 ------
 
@@ -134,12 +133,17 @@ Android官网 : https://developer.android.com/index.html
   * Lab: <a href ="https://github.com/gfzheng/MAD/blob/master/Labs/%E5%AE%9E%E9%AA%8C%E5%85%AD.zip" target="_blank">实验六.zip</a>
 （注意：音乐要放到对应地址的位置才可以正确播放，地址各个手机不一定相同。）
 
-----
+------
 
 ### Week 13 数据存储（一）
 * Lectures: <a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/13 数据存储.pdf" target="_blank">13 数据存储.pdf</a>
-* Code: <a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/13_数据存储_Demo.zip" target="blank">13_数据存储_Demo.zip</a>
+* Code: <a href ="https://github.com/gfzheng/MAD/blob/master/Keynotes/13_数据存储_Demo.zip" target="_blank">13_数据存储_Demo.zip</a>
 * Lab: <a href ="https://github.com/gfzheng/MAD/blob/master/Labs/实验七.zip" target="_blank">实验七.zip</a>
+
+------
+
+### Week 14 数据存储（二）
+* Lab: <a href ="https://guthub.com/gfzheng/MAD/blob/master/Labs/实验八.zip" target="_blank">实验八.zip</a>
 
 
 ------
