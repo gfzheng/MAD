@@ -143,7 +143,7 @@ Android官网 : https://developer.android.com/index.html
 ------
 
 ### Week 14 数据存储（二）
-* Lab: <a href ="https://guthub.com/gfzheng/MAD/blob/master/Labs/实验八.zip" target="_blank">实验八.zip</a>
+* Lab: <a href ="https://github.com/gfzheng/MAD/blob/master/Labs/实验八.zip" target="_blank">实验八.zip</a>
 
 
 ------
