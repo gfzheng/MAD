@@ -146,7 +146,7 @@ Android官网 : https://developer.android.com/index.html
 * Lab: <a href ="https://github.com/gfzheng/MAD/blob/master/Labs/实验八.zip" target="_blank">实验八.zip</a>
 
 ### Week 15-16  网络访问与Web开发
-* Lectures: [15-16网络访问与Web开发](./Keynotes/14 网络访问.pdf)
+* Lectures: [15-16网络访问与Web开发](./Keynotes/14_网络访问.pdf)
 * Code: [15-16_网络访问与Web开发Demo](./Keynotes/WebDemo.zip)
 * Lab: [实验九.zip](./Labs/实验九.zip)
 
