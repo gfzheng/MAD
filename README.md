@@ -147,9 +147,9 @@ Android官网 : https://developer.android.com/index.html
 
 ------
 
-### Week 15-16  网络访问与Web开发
-* Lectures: [15-16网络访问与Web开发](./Keynotes/14_网络访问.pdf)
-* Code: [15-16_网络访问与Web开发Demo](./Keynotes/WebDemo.zip)
+### Week 15-16  网络访问与Web服务
+* Lectures: [15-16网络访问与Web服务](./Keynotes/14_网络访问.pdf)
+* Code: [15-16_网络访问与Web服务Demo](./Keynotes/WebDemo.zip)
 * Lab: [实验九.zip](./Labs/实验九.zip)
 
 ------
