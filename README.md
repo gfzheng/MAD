@@ -165,7 +165,7 @@ Android官网 : https://developer.android.com/index.html
 ### Week 18  地图应用
 * Lectures: [18_地图应用.pdf](./Keynotes/16_地图应用.pdf)
 <!--* Code: [15-16_网络访问与Web服务Demo](./Keynotes/WebDemo.zip)-->
-<!--* Lab: [实验十.zip](./Labs/实验十.zip)-->
+* Lab: <!--[实验十.zip](./Labs/实验十.zip)-->
 
 ------
 
