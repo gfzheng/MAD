@@ -152,10 +152,11 @@ Android官网 : https://developer.android.com/index.html
 * Code: [15-16_网络访问与Web服务Demo](./Keynotes/WebDemo.zip)
 * Lab: [实验九.zip](./Labs/实验九.zip)
 
+
 ------
 
 ### Week 17  特色开发（NDK，传感器）
-* Lectures: [17_特色开发（NDK，传感器）.pdf](./Keynotes/15_特色开发（NDK，传感器）.pdf)
+* Lectures: [17\_特色开发（NDK，传感器）.pdf](./Keynotes/15_特色开发（NDK，传感器）.pdf)
 <!--* Code: [15-16_网络访问与Web服务Demo](./Keynotes/WebDemo.zip)-->
 * Lab: [实验十.zip](./Labs/实验十.zip)
 （注意：请使用真机测试。）
@@ -163,7 +164,7 @@ Android官网 : https://developer.android.com/index.html
 ------
 
 ### Week 18  地图应用
-* Lectures: [18_地图应用.pdf](./Keynotes/16_地图应用.pdf)
+* Lectures: [18\_地图应用](./Keynotes/16_地图应用.pdf)
 <!--* Code: [15-16_网络访问与Web服务Demo](./Keynotes/WebDemo.zip)-->
 * Lab: <!--[实验十.zip](./Labs/实验十.zip)-->
 
