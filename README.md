@@ -157,7 +157,7 @@ Android官网 : https://developer.android.com/index.html
 
 ### Week 17  特色开发（NDK，传感器）
 * Lectures: [17\_特色开发（NDK，传感器）.pdf](./Keynotes/15_特色开发（NDK，传感器）.pdf)
-<!--* Code: [15-16_网络访问与Web服务Demo](./Keynotes/WebDemo.zip)-->
+* Code: [LocationDemo.zip](./Keynotes/LocationDemo.zip)，[GetSensorDemo.zip](./Keynotes/GetSensorDemo.zip)
 * Lab: [实验十.zip](./Labs/实验十.zip)
 （注意：请使用真机测试。）
 
