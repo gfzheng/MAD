@@ -166,7 +166,7 @@ Android官网 : https://developer.android.com/index.html
 ### Week 18  地图应用
 * Lectures: [18\_地图应用](./Keynotes/16_地图应用.pdf)
 * Code: [18\_HelloMap.rar](./Keynotes/HelloMap.rar)
-（须翻墙）
+（需要翻墙）
 * Lab: <!--[实验十.zip](./Labs/实验十.zip)-->
 
 ------
